@@ -36,7 +36,7 @@ def clean_text(text):
 df['subject'] = df['subject'].apply(clean_text)
 df['body'] = df['body'].apply(clean_text)
 
-# 🔥 Remove rows where 'subject' or 'body' is blank after cleaning
+# Remove rows where 'subject' or 'body' is blank after cleaning
 df = df[(df['subject'].str.strip() != '') & (df['body'].str.strip() != '')]
 
 # Preview cleaned dataset
