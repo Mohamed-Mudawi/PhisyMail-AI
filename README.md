@@ -1,10 +1,6 @@
 # PhishyMail AI
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+Developed and evaluated machine learning models for real-time phishing email detection by analyzing natural language and sender metadata, applying logistic regression, Random Forest, and NLP techniques. Leveraged Python, data preprocessing, and performance evaluation metrics.
 
 
 ## Problem Statement <!--- do not change this line -->
